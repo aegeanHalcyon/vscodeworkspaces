@@ -1,0 +1,13 @@
+{
+  "name": "ClipboardSample",
+  "productName": "Clipboard Sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node_modules/.bin/electron ."
+  },
+  "keywords": [],
+  "author": "Dave Leonard",
+  "license": "ISC"
+}
